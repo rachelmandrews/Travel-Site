@@ -1,0 +1,145 @@
+body{
+background: url(http://smhos.org/wp-content/uploads/2014/10/Silver-Blur-Background-Wallpaper.jpg) no-repeat fixed;
+
+}
+a.class1{
+  color:black;
+}
+a.class1:link  {text-decoration: none; color: black;}
+a.class1:visited {text-decoration: none; color: black;}
+a.class1:hover {text-decoration: underline; color: purple;}
+a.class1:active {text-decoration: none; color: black;}
+
+a.class2:link{
+  color:white;
+}
+a.class2:link  {text-decoration: none; color: white;}
+a.class2:visited {text-decoration: none; color: white;}
+a.class2:hover {text-decoration: underline; color: purple;}
+a.class2:active {text-decoration: none; color: white;}
+
+h1
+{
+  font-size: 100px;
+  color:black;
+  text-align: center;
+  font-family: Marker Felt;
+}
+
+section {
+  background-color:transparent;
+  font-family: Verdana;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+div {
+  height: 300px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  border-radius: 12px;
+}
+
+p.black{
+  color:black;
+  background:#F0F8FF;
+  border-radius: 10px 10px;
+  padding: 10px;
+  line-height: 28px;
+  text-align: justify;
+  position: absolute;
+  bottom: 0;
+  margin: 0px;
+  opacity: 0.6;
+}
+
+p.black2{
+  color:black;
+  font: Verdana;
+  background:transparent;
+  padding: 10px;
+  line-height: 28px;
+  text-align: justify;
+  position: relative;
+  bottom: 0;
+  margin: 0px}
+
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+      }
+
+    input[type="submit"] 
+    {
+      background: black;
+      color: white;
+      padding-top: auto;
+      text-align: center;
+      margin: auto;
+    }
+    
+li { 
+ display: inline;
+ padding: 0px 10px 0px 10px;
+ }
+ 
+  
+.first{
+ background-image: url("https://staythailand.files.wordpress.com/2012/07/thailand-beach-stra_794020c.jpg");
+    }
+
+.second{
+  background-image: url("http://www.blogcdn.com/travel.aol.co.uk/media/2011/10/egypt-1317922608.jpg");
+}
+.third{
+  background-image: url("http://www.milesmorgantravel.co.uk/assets/images/content/blogs/barcelona-city-break.jpg");
+}
+.fourth{
+  background-image: url("https://cdn.inghams.co.uk/ImageGen.ashx?image=/media/3982043/lake-louise.jpg");
+}
+.fifth{
+  background-image: url("http://www.frankfurt-live.com/upload/2010-q2/2010-04-20_Rad.jpg");
+}
+.sixth{
+  background-image: url("http://www.skydiveseb.com/data6/images/9.08beachjumpfx5.jpg");
+}
+.seventh{
+  background-image: url("http://www.hikepyrenees.co.uk/guided-walking-holiday-spain.jpg");
+}
+
+blockquote {
+  border-left: 0;
+}
+
+#mission {
+  height: 200%;
+  width: 105%;
+  background-color: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+  text-align: center;
+}
+
+#social-buttons {
+  margin-top: -60px;
+}
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+  color: white;
+}
+

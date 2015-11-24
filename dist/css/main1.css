@@ -1,5 +1,6 @@
 body{
 background: url(http://smhos.org/wp-content/uploads/2014/10/Silver-Blur-Background-Wallpaper.jpg) no-repeat fixed;
+text-align: center;
 
 }
 a.class1{
@@ -31,6 +32,8 @@ section {
   font-family: Verdana;
   margin: 0 auto;
   max-width: 600px;
+  position: relative;
+  left:60px;
 }
 
 div {
@@ -84,8 +87,9 @@ li {
  display: inline;
  padding: 0px 10px 0px 10px;
  }
- 
-  
+.travel
+{text-align: center;}
+
 .first{
  background-image: url("https://staythailand.files.wordpress.com/2012/07/thailand-beach-stra_794020c.jpg");
     }
@@ -121,6 +125,17 @@ blockquote {
   text-align: center;
 }
 
+#Book { 
+  height: 220%;
+  width: 85%;
+  background-color: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+  text-align: center;
+  position: relative;
+  left: 150px;
+}
+
+}
 #social-buttons {
   margin-top: -60px;
 }
@@ -129,17 +144,20 @@ blockquote {
   background-color: #00acee;
   border-color: #009ad5;
   color: white;
+  display:inline;
 }
 
 .btn-facebook {
   background-color: #4868ac;
   border-color: #314776;
   color: white;
+  display:inline;
 }
 
 .btn-pinterest {
   background-color: #b62f26;
   border-color: #b62f26;
   color: white;
+  display:inline;
 }
 
